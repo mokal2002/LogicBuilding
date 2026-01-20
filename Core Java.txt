@@ -1,0 +1,112 @@
+Sure! Here are **topic-wise Core Java practice questions** (NO answers).
+You can solve these one by one to build strong logic.
+
+---
+
+# ✅ **1. Variables & Data Types – Questions**
+
+1. Declare variables to store your name, age, height, and print them.
+2. Take two numbers and display their sum, difference, product, and quotient.
+3. Convert a given temperature from Celsius to Fahrenheit.
+4. Swap two numbers without using a third variable.
+5. Take a float number and round it to the nearest integer.
+
+---
+
+# ✅ **2. Conditions (if-else, switch) – Questions**
+
+1. Check whether a number is **positive, negative, or zero**.
+2. Find the **largest of three numbers**.
+3. Check if a year is a **leap year**.
+4. Build a simple **calculator** using `switch` (add, subtract, multiply, divide).
+5. Check if a character is a **vowel or consonant**.
+
+---
+
+# ✅ **3. Loops – Questions**
+
+1. Print numbers from 1 to 100.
+2. Print the **multiplication table** of any number.
+3. Count the number of digits in a number.
+4. Reverse a number (e.g., 123 → 321).
+5. Find the **factorial** of a given number.
+6. Print this pattern:
+
+   ```
+   *
+   **
+   ***
+   ****
+   ```
+
+---
+
+# ✅ **4. Arrays – Questions**
+
+1. Find the **maximum** element in an array.
+2. Find the **minimum** element in an array.
+3. Count the number of **even** and **odd** numbers in an array.
+4. Search for an element inside an array (linear search).
+5. Find the **sum** of all elements of an array.
+
+---
+
+# ✅ **5. Methods – Questions**
+
+1. Write a method to find the **sum of two numbers**.
+2. Write a method to check if a number is **prime**.
+3. Write a method to return the **square** of a number.
+4. Write **overloaded methods** for addition (2 numbers, 3 numbers).
+5. Write a method to calculate the **area of a circle**.
+
+---
+
+# ✅ **6. OOP Concepts – Questions**
+
+1. Create a `Student` class with name, roll number, and marks.
+2. Create a class `Car` with methods start(), stop(), and accelerate().
+3. Demonstrate **constructor overloading**.
+4. Create a `Calculator` class demonstrating **method overloading**.
+5. Create two classes `Animal` and `Dog` to demonstrate **inheritance**.
+6. Create a base class and a child class to show **runtime polymorphism**.
+7. Create a class with **private variables** and use getter/setter methods.
+
+---
+
+# ✅ **7. Strings – Questions**
+
+1. Count the number of vowels in a string.
+2. Check whether a string is a **palindrome**.
+3. Reverse a string without using `reverse()` method.
+4. Count words in a sentence.
+5. Replace all spaces in a string with `-`.
+
+---
+
+# ✅ **8. Exception Handling – Questions**
+
+1. Handle **division by zero** using try-catch.
+2. Handle **ArrayIndexOutOfBoundsException**.
+3. Create a **custom exception** for invalid age (age < 18).
+4. Use `finally` block and print a message.
+5. Handle NumberFormatException.
+
+---
+
+# ✅ **9. File Handling – Questions**
+
+1. Write a program to **write text** into a file.
+2. Read text from a file.
+3. Append new content to an existing file.
+4. Count the number of characters in a file.
+5. Copy data from one file to another.
+
+---
+
+# ⭐ If you want, I can also give:
+
+👉 **Mini Projects** (ATM System, Library System, Student Manager, Billing System)
+👉 Difficulty-wise practice (Easy → Medium → Hard)
+👉 DSA questions in Java
+
+Would you like more?
